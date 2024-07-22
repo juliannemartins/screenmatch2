@@ -1,6 +1,6 @@
 <h1> Projeto Screenmatch JAVA 🚀</h1>
 
-Neste repositório você encontrará o meu projeto em Java para o desafio de criar uma aplicação para gerenciamento de áudios (músicas e podcasts) do curso da Alura "Java: aplicando a Orientação a Objetos". 
+Neste repositório você encontrará o meu projeto em Java para o curso "Java: aplicando a Orientação a Objetos". 
 
 ## Conteúdo do Repositório 
   - Principal.java : main
